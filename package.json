@@ -1,0 +1,14 @@
+{
+  "name": "MyGists",
+  "version": "0.0.1",
+  "scripts": {
+	"start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+	"nedb": "latest",
+	"nodemon": "latest",
+	"body-parser": "latest"
+  }
+}
+
