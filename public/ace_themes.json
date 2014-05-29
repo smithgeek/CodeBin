@@ -1,1 +1,38 @@
-{ "themes": ["ambiance", "chaos", "chrome", "clouds", "clouds_midnight", "cobalt", "crimson", "dawn", "dreamweaver", "eclipse", "github", "idle_fingers", "katzenmilch", "kr_theme", "kuroir", "merbivore", "merbivore_soft", "mono_industrial", "monokai", "pastel_on_dark", "solarized_dark", "solarized_light", "terminal", "textmate", "tomorrow", "tomorrow_night", "tomorrow_night_blue", "tomorrow_night_bright", "tomorrow_night_eighties", "twilight", "vibrant", "xcode"]}
+{
+    "themes" : 
+    [
+    { "id": "chrome", "display": "Chrome", "group": "Bright" }, 
+    { "id": "clouds", "display": "Clouds", "group": "Bright" }, 
+    { "id": "crimson_editor", "display": "Crimson", "group": "Bright" }, 
+    { "id": "dawn", "display": "Dawn", "group": "Bright" }, 
+    { "id": "dreamweaver", "display": "Dreamweaver", "group": "Bright" }, 
+    { "id": "eclipse", "display": "Eclipse", "group": "Bright" }, 
+    { "id": "github", "display": "Github", "group": "Bright" }, 
+    { "id": "katzenmilch", "display": "Katzenmilch", "group": "Bright" }, 
+    { "id": "kuroir", "display": "Kuroir", "group": "Bright" }, 
+    { "id": "solarized_Bright", "display": "Solarized Bright", "group": "Bright" }, 
+    { "id": "textmate", "display": "Textmate", "group": "Bright" }, 
+    { "id": "tomorrow", "display": "Tomorrow", "group": "Bright" }, 
+    { "id": "xcode", "display": "XCode", "group": "Bright" },
+
+    { "id": "ambiance", "display": "Ambiance", "group": "Dark" }, 
+    { "id": "chaos", "display": "Chaos", "group": "Dark" }, 
+    { "id": "clouds_midnight", "display": "Clouds Midnight", "group": "Dark" }, 
+    { "id": "cobalt", "display": "Cobalt", "group": "Dark" }, 
+    { "id": "idle_fingers", "display": "Idle Fingers", "group": "Dark" }, 
+    { "id": "kr_theme", "display": "KR Theme", "group": "Dark" }, 
+    { "id": "merbivore", "display": "Merbivore", "group": "Dark" }, 
+    { "id": "merbivore_soft", "display": "Merbivore Soft", "group": "Dark" }, 
+    { "id": "mono_industrial", "display": "Mono Industrial", "group": "Dark" }, 
+    { "id": "monokai", "display": "Monokai", "group": "Dark" }, 
+    { "id": "pastel_on_Dark", "display": "Pastel on Dark", "group": "Dark" }, 
+    { "id": "solarized_Dark", "display": "Solarized Dark", "group": "Dark" }, 
+    { "id": "terminal", "display": "Terminal", "group": "Dark" }, 
+    { "id": "tomorrow_night", "display": "Tomorrow Night", "group": "Dark" }, 
+    { "id": "tomorrow_night_blue", "display": "Tomorrow Night Blue", "group": "Dark" }, 
+    { "id": "tomorrow_night_bright", "display": "Tomorrow Night Bright", "group": "Dark" }, 
+    { "id": "tomorrow_night_eighties", "display": "Tomorrow Night Eighties", "group": "Dark" }, 
+    { "id": "twiBright", "display": "TwiBright", "group": "Dark" }, 
+    { "id": "vibrant_ink", "display": "Vibrant", "group": "Dark" }
+    ]
+}

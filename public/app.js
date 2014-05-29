@@ -49,9 +49,11 @@
 	                var editor = ace.edit(id);
 	                editor.setValue(ide.gist.files[i].text);
 	                editor.selection.selectTo(0, 0);
-	                editor.setOptions({ maxLines: 1000 });
+	                editor.setOptions({ maxLines: 50 });
 	                editor.setTheme("ace/theme/" + ide.userTheme);
 	                editor.getSession().setMode("ace/mode/" + ide.gist.files[i].language);
+                    editor.getSession().setTabSize( 4 );
+                    editor.getSession().setUseSoftTabs(true);
 	                ide.editors.push(editor);
 	            }
 	        }
